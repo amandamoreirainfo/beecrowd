@@ -1,6 +1,6 @@
 # Repositório de Respostas e Soluções BeenCRWD
 
-Este repositório foi criado para armazenar as respostas e soluções dos desafios e questões propostos no BeenCRWD. Aqui você encontrará soluções para uma variedade de problemas, organizadas por tópicos ou categorias.
+Este repositório foi criado para armazenar as respostas e soluções dos desafios e questões propostos no Beecrowd. Aqui você encontrará soluções para uma variedade de problemas, organizadas por tópicos ou categorias.
 
 ## Estrutura do Repositório
 
